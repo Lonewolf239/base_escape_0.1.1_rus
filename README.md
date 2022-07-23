@@ -1,1 +1,1 @@
-# base_escape_1.1_rus
+# base_escape but in Russian localization
